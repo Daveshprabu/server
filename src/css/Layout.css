@@ -1,0 +1,13 @@
+.one{
+    display: flex;
+    text-decoration: none;
+    background-color: rgb(0, 0, 0);
+    padding: 15px;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.one li{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 30%;
+}

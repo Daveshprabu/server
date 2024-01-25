@@ -1,0 +1,11 @@
+.services{
+    background-color: rgb(255, 0, 0);
+    grid-template-columns:repeat(3,1fr);
+    display: grid;
+}
+.ser{
+    padding: 2%;
+    background-color: blueviolet;
+    border: 1px solid #fff;
+    
+}
