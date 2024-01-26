@@ -17,6 +17,9 @@ return (
             <li>
                 <Link to="contact">CONTACT</Link>
             </li>
+            <li>
+                <Link to="count">COUNT</Link>
+            </li>
         </ul>
       </nav>
         <Outlet/>

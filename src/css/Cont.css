@@ -1,0 +1,8 @@
+.cli{
+    text-align: center;
+    background: linear-gradient(lightblue,rgb(164, 99, 164));
+}
+.cou{
+    background: linear-gradient(pink, lightblue);
+    padding-left: 0%;
+}
